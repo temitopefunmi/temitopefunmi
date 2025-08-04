@@ -1,59 +1,53 @@
 ## Hi there, I'm Temitope 👋
 
-<!--
-**temitopefunmi/temitopefunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a cloud-focused software developer and technical writer, passionate about building real-world solutions, sharing knowledge, and continuously learning.
 
-Here are some ideas to get you started:
+## 👩🏽‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Cloud & DevOps Enthusiast** with experience in cloud infrastructure, scripting, automation, and application monitoring.
+- ✍🏽 **Technical Blogger**: I document hands-on projects and guided cloud scenarios on [Medium](https://medium.com/@temitopefunmi).
+- 💼 **Background**: Biomedical engineer turned cloud engineer with experience in healthcare IT and research.
+- 🌱 **Currently Learning**: Terraform, Azure Functions, and deeper automation workflows.
+- 💬 **Ask me about**: Azure, Bash scripting, GitHub Actions, Logic Apps, and real-world deployment strategies.
+- 🌍 **Location**: Nigeria
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
+## 🛠️ Skills & Tools
 
-## About Me
+- **Languages**: Bash, Python, JavaScript
+- **Cloud Platforms**: Microsoft Azure, a bit of AWS
+- **DevOps**: Git, GitHub Actions, Terraform (in progress), Docker (basics)
+- **Monitoring**: Azure Monitor, Application Insights, Log Analytics
+- **Infrastructure**: VMs, NSGs, VNets, Azure Functions, Logic Apps, SQL
 
-- 💻 **Software Developer** with experience in web development, mobile app development, and cloud computing.
-- 🎓 **Education**: Bachelor's degree in Computer Science from [Your University].
-- 🌍 **Location**: [Your Location].
-- 🌱 **Currently Learning**: Advanced algorithms and machine learning.
-- 💬 **Ask me about**: JavaScript, Python, React, Node.js, and AWS.
-- ⚡ **Fun Fact**: I love playing chess and hiking in my free time.
+## 📚 Blog Projects
 
-## Skills
+Check out some of my recent guided project series from Microsoft Learn, reimagined as real-world stories:
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js, Express.js
-- **Mobile Development**: React Native, Flutter
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Cloud**: AWS, Azure, Docker
-- **Tools**: Git, GitHub, VS Code, JIRA
+- 🌐 **[Azure Virtual Networking Series](https://medium.com/@temitopefunmi)** — Built a secure foundation for a healthcare app using VNets, NSGs, ASGs, and Azure Firewall.
+- 📈 **Azure Monitoring Series** — End-to-end application and infrastructure monitoring with alerts, insights, and log analytics.
+- ⚙️ **Cloud-Native Appointment Workflow** — Automating healthcare scheduling with Logic Apps, Azure SQL, and Functions.
 
-## Projects
+More projects available [on my Medium](https://medium.com/@temitopefunmi) or below in the repos!
 
-### [Project 1](https://github.com/temitopefunmi/project1)
-A brief description of Project 1. This project is about...
+## 🚀 Featured Repositories
 
-### [Project 2](https://github.com/temitopefunmi/project2)
-A brief description of Project 2. This project is about...
+### [zenith-healthtech-networking](https://github.com/temitopefunmi/zenith-healthtech-networking)  
+Terraform and Azure CLI scripts to set up secure networks for a healthcare app.
 
-### [Project 3](https://github.com/temitopefunmi/project3)
-A brief description of Project 3. This project is about...
+### [azure-monitoring-guide](https://github.com/temitopefunmi/azure-monitoring-guide)  
+Code and docs for application and VM monitoring using Azure Monitor.
 
-## Get in Touch
+### [logicapp-appointment-workflow](https://github.com/temitopefunmi/logicapp-appointment-workflow)  
+A low-code appointment system with validation using Azure Functions and SQL.
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/temitopefunmi)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
-- **Email**: [Your Email](mailto:youremail@example.com)
+## 📫 Get in Touch
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+- **LinkedIn**: [linkedin.com/in/temitopefunmi](https://www.linkedin.com/in/temitope-olayinka-101/)
+- **Medium**: [medium.com/@temitopefunmi](https://medium.com/@temitopefunmi)
+- **Email**: [youremail@example.com](mailto:temitopefunmi@gmail.com)
+
+Feel free to explore, connect, or reach out. I'm always open to feedback, collaboration, and learning together.
 
 ---
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for stopping by! 😊
